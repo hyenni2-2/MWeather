@@ -1,4 +1,4 @@
-# MWeather
+# Team MayWeather : Weather Wear 
 ## BIT 최종 프로젝트 WeatherWear : Closet 게시판 구현 (BIT Final Project - Programming Closet Board)
 
 ### 사용기술 ( Technologies) : Java, Spring Framework, Javascript, Jquery
@@ -8,7 +8,7 @@
 
 
 #### 2. Codes ; 구현기능
-> Drag & Drop
+##### Drag & Drop
 ![분류](https://user-images.githubusercontent.com/71998026/110908634-72b5b500-8352-11eb-8aaa-67c9d456c0c1.gif)
 
 
