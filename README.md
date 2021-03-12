@@ -12,7 +12,7 @@
 
 #### 2. Codes ; 구현기능
 ##### Drag & Drop
-<img src="https://user-images.githubusercontent.com/71998026/110908634-72b5b500-8352-11eb-8aaa-67c9d456c0c1.gif">   <img src="https://user-images.githubusercontent.com/71998026/110909376-5ebe8300-8353-11eb-80db-c1d7c14f27d5.gif">   <img src="https://user-images.githubusercontent.com/71998026/110909457-71d15300-8353-11eb-82f7-fab5f0689603.gif">
+<img src="https://user-images.githubusercontent.com/71998026/110908634-72b5b500-8352-11eb-8aaa-67c9d456c0c1.gif">          <img src="https://user-images.githubusercontent.com/71998026/110909376-5ebe8300-8353-11eb-80db-c1d7c14f27d5.gif">           <img src="https://user-images.githubusercontent.com/71998026/110909457-71d15300-8353-11eb-82f7-fab5f0689603.gif">
 
 
 
