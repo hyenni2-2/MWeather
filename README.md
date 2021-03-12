@@ -1,7 +1,9 @@
 # Team MayWeather : Weather Wear 
 
 
-## BIT 최종 프로젝트 WeatherWear : Closet 게시판 구현 (BIT Final Project - Programming Closet Board)
+## BIT 최종 프로젝트 WeatherWear : Closet 게시판 구현 
+
+(BIT Final Project - Programming Closet Board)
 
 ### 사용기술 ( Technologies) : Java, Spring Framework, Javascript, Jquery
 
