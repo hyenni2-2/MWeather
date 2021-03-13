@@ -1,4 +1,4 @@
-# Team MayWeather : Weather Wear 
+#  🌥️ Team MayWeather : Weather Wear 
 
 
 ## BITCAMP 최종 프로젝트 WeatherWear : Closet 게시판 구현 (BITCAMP Final Project - Designing Closet Board)
