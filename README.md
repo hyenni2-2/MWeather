@@ -6,9 +6,7 @@
 
 
 
-## BITCAMP 최종 프로젝트 WeatherWear : Closet 게시판 구현
-
-(BITCAMP Final Project - Designing Closet Board)
+## BITCAMP 최종 프로젝트 WeatherWear : Closet 게시판 구현  (BITCAMP Final Project - Designing Closet Board)
 사용기술 ( Technologies) : Java, Spring Framework, Javascript, Jquery, SPA(Single Page Application), MSA(Micro Service Architecture) 
 
 ### 1. Purpose ; 기획의도 
