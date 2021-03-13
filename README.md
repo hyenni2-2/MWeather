@@ -4,19 +4,25 @@
 </p>
 
 
+<hr>
 
 
 ## :zap: BITCAMP 최종 프로젝트 WeatherWear : Closet 게시판 구현<br>  (BITCAMP Final Project - Designing Closet Board) 
-### 사용기술 (Technologies) : Java, Spring Framework, Javascript, Jquery <hr>
+### 1. 사용기술 (Technologies) : Java, Spring Framework, Javascript, Jquery 
 ![메이웨더 PPT 설명 pptx의 사본 (8)](https://user-images.githubusercontent.com/71998026/111027266-88021080-8432-11eb-964d-b0131e37f8b2.png)
 
-### 프로젝트 구조(Project Structure) : MSA(Micro Service Architecture), SPA(Single Page Application) <hr>
+<hr>
+
+### 2. 프로젝트 구조(Project Structure) : MSA(Micro Service Architecture), SPA(Single Page Application) 
 ![메이웨더 PPT 설명 pptx의 사본 (10)](https://user-images.githubusercontent.com/71998026/111027478-f85d6180-8433-11eb-8d35-cd96478c13bf.png)
 
+![메이웨더 PPT 설명 pptx의 사본 (11)](https://user-images.githubusercontent.com/71998026/111027625-b2ed6400-8434-11eb-9eea-9c5c858b162c.png)
 
 
+<hr>
 
-### 1. Purpose ; 기획의도 
+
+### 3. . Purpose ; 기획의도 
 ##### 사용자가 자유롭게 Drag & Drop 기능을 이용하여 원하는 코디 조합을 할 수 있도록 구현하였다. 
 ##### User can easily use drag & drop function. and with that images, user can posts text on Closet board.  
 <img src="https://user-images.githubusercontent.com/71998026/110907553-eb1b7680-8350-11eb-9057-72a014e7bbf0.png">
