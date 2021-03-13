@@ -27,13 +27,13 @@
 
 <br>
 
-### 3. . Purpose ; 기획의도 
+### 3. Purpose ; 기획의도 
 ##### 사용자가 자유롭게 Drag & Drop 기능을 이용하여 원하는 코디 조합을 할 수 있도록 구현하였다. 
 ##### User can easily use drag & drop function. and with that images, user can posts text on Closet board.  
 <img src="https://user-images.githubusercontent.com/71998026/110907553-eb1b7680-8350-11eb-9057-72a014e7bbf0.png">
 
 
-### 2. Codes ; 구현기능
+### 4. Functions ; 구현기능
 ##### Drag & Drop  
 <img src="https://user-images.githubusercontent.com/71998026/110911461-19e81b80-8356-11eb-841a-83125640d9b1.png">
 <img src="https://user-images.githubusercontent.com/71998026/110908634-72b5b500-8352-11eb-8aaa-67c9d456c0c1.gif">  
@@ -56,7 +56,7 @@
 <img src="https://user-images.githubusercontent.com/71998026/110913163-21102900-8358-11eb-81d5-1e12b757344e.png">
 
 
-#### 3. Review ; 느낀 점
+#### 5. Review ; 느낀 점
 ##### 1) Jquery Draggable UI 
 처음엔 Jquery Draggable UI를 사용하지 않고 HTML5 기본 API인 Drag & Drop 기능을 이용하여 구현하려 했으나, Jquery Draggable UI를 이용하여 구현하는 편이 더 간단하여 Jquery UI로 구현하였다.
 그러나 프로젝트 기획의도인 모바일 웹에서는 draggable이 되지 않는다는 치명적인 단점이 있었고, 이를 jquery.ui.touch.js(https://github.com/furf/jquery-ui-touch-punch)를 이용하여 해결하였다.
