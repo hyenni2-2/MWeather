@@ -44,16 +44,16 @@
 
 #### Basic Board(Using Spring Framework) : CRUD(Create, Read, Update, Delete)
 > Create ; 글쓰기 
->> 드래그한 이미지를 그대로 글쓰기 메뉴에서 출력하였다. <br> (Dragged images are keeping their position, can be submitted to Closet board with texts.)
+> 드래그한 이미지를 그대로 글쓰기 메뉴에서 출력하였다. <br> (Dragged images are keeping their position, can be submitted to Closet board with texts.)
 ![메이웨더 PPT 설명 pptx의 사본 (2)](https://user-images.githubusercontent.com/71998026/110911634-4c921400-8356-11eb-925a-cb0d38f05a5b.png)
 
-#### Read ; 리스트
-유저가 등록한 게시글을 최신순으로 노출하였다. 또한, 좋아요 기능을 추가하였다. <br> (Postings are listed by latest date and adding like function, user can count their own like.)
+> Read ; 리스트
+> 유저가 등록한 게시글을 최신순으로 노출하였다. 또한, 좋아요 기능을 추가하였다. <br> (Postings are listed by latest date and adding like function, user can count their own like.)
 ![메이웨더 PPT 설명 pptx의 사본 (4)](https://user-images.githubusercontent.com/71998026/110912674-8fa0b700-8357-11eb-96ae-6fa2d54cb070.png)
 
-#### Update/Delete ; 수정/삭제
-본인이 등록한 게시글을 수정 & 삭제할 수 있도록 하였다. 
-(User can edit & delete their own post, which is confirmed same user through login process.)
+> Update/Delete ; 수정/삭제
+> 본인이 등록한 게시글을 수정 & 삭제할 수 있도록 하였다. 
+> (User can edit & delete their own post, which is confirmed same user through login process.)
 <img src="https://user-images.githubusercontent.com/71998026/110913082-08a00e80-8358-11eb-9fed-33ecdead9f0d.png">
 <img src="https://user-images.githubusercontent.com/71998026/110913129-15246700-8358-11eb-891d-88050f830b2b.png">
 <img src="https://user-images.githubusercontent.com/71998026/110913163-21102900-8358-11eb-81d5-1e12b757344e.png">
